@@ -1,8 +1,7 @@
 {
   "name": "@quentin-sommer/babel-node-auto",
   "version": "1.0.1",
-  "description":
-    "Automatic setup for babel and node including env preset and polyfills.",
+  "description": "Automatic setup for babel and node including env preset and polyfills.",
   "homepage": "https://github.com/quentin-sommer/babel-node-auto",
   "bugs": {"url": "https://github.com/quentin-sommer/babel-node-auto/issues"},
   "main": "bin.js",
@@ -12,6 +11,7 @@
   "engines": {
     "node": "^4.8.6"
   },
+  "readme": "https://github.com/quentin-sommer/babel-node-auto/blob/master/README.md",
   "keywords": ["babel", "config"],
   "author": {
     "name": "Quentin Sommer",
