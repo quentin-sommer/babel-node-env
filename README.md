@@ -1,7 +1,7 @@
 # babel-node-env
 
 ## Installation
-`npm install --save @quentin-sommer/babel-isnode-env`
+`npm install --save @quentin-sommer/babel-node-env`
 
 ## Introduction
 This CLI will compile and run your node application using babel. You don't have to worry about the plugins you need to use. You'll get every [stage 4](https://tc39.github.io/process-document/) features for free. 
