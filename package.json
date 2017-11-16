@@ -1,25 +1,30 @@
 {
-  "name": "@quentin-sommer/babel-node-auto",
-  "version": "1.0.2",
+  "name": "@quentin-sommer/babel-node-env",
+  "version": "1.0.0",
   "description": "Automatic setup for babel and node including env preset and polyfills.",
-  "homepage": "https://github.com/quentin-sommer/babel-node-auto",
-  "bugs": {"url": "https://github.com/quentin-sommer/babel-node-auto/issues"},
+  "homepage": "https://github.com/quentin-sommer/babel-node-env",
+  "bugs": {
+    "url": "https://github.com/quentin-sommer/babel-node-env/issues"
+  },
   "main": "bin.js",
   "bin": {
-    "babel-node-auto": "./bin.js"
+    "babel-node-env": "./bin.js"
   },
   "engines": {
-    "node": "^4.8.6"
+    "node": ">4.8.6"
   },
-  "readme": "https://github.com/quentin-sommer/babel-node-auto/blob/master/README.md",
-  "keywords": ["babel", "config"],
+  "readme": "https://github.com/quentin-sommer/babel-node-env/blob/master/README.md",
+  "keywords": [
+    "babel",
+    "config"
+  ],
   "author": {
     "name": "Quentin Sommer",
     "email": "hello@quentin-sommer.com",
     "url": "https://www.quentin-sommer.com"
   },
   "license": "MIT",
-  "repository": "quentin-sommer/babel-node-auto",
+  "repository": "quentin-sommer/babel-node-env",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",

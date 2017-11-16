@@ -1,7 +1,7 @@
-# babel-node-auto
+# babel-node-env
 
 ## Installation
-`npm install --save @quentin-sommer/babel-node-auto`
+`npm install --save @quentin-sommer/babel-node-env`
 
 ## Usage
 
@@ -9,7 +9,7 @@ Add this script in your `package.json`:
 ```
 {
     "scripts": {
-        "start": "babel-node-auto YOUR_ENTRY_POINT.js"
+        "start": "babel-node-env YOUR_ENTRY_POINT.js"
     }
 }
 ```
