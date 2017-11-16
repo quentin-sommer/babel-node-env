@@ -19,4 +19,4 @@ Add this script in your `package.json`:
 }
 ```
 
-Then run `npm start` to start your app and babel will automatically compile and run it.
+Then run `npm start` to start your app and babel will automatically compile it and run it.
