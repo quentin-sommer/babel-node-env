@@ -1,5 +1,7 @@
 # babel-node-env
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/quentin-sommer/babel-node-env.svg)](https://greenkeeper.io/)
+
 ## Installation
 `npm install --save @quentin-sommer/babel-node-env`
 
